@@ -1,6 +1,6 @@
 # Getting Started
 
-test-template
+demo
 ejecutar test
 
 mvn test
